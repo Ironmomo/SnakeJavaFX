@@ -8,7 +8,7 @@ The reason for this project was to practice my programming skills I have learned
 ### Make it run
 - Clone repository
 - open up a terminal => `gradle run`
-## About
+## About the game
 <img src="Screenshot.PNG" alt="Screenshot" width="400" height="400"/>
 This project is my oven version of the famous snake game.
 The player can chose between 3 different speed levels.
@@ -19,7 +19,7 @@ There is also a so called chaos mode which will generate 3 different kind of spe
 This special effect items are shown as green rectangles.
 Regular food items are shown as red rectangles.
 
-## How to play
+### How to play
 
 Press Start to play a game!
 
@@ -29,3 +29,8 @@ W  | move UP
 D  | move RIGHT
 S  | move DOWN
 A  | move LEFT
+
+## About the project
+
+My goal was not to write a fullyfunctional snake game with the least amount of code. My goal was to write code easy to maintain, understand and extend.
+I also wanted to make use of concepts I have learned during my first year at studies. Like for example clean code, multi-threading and the mvc pattern.
